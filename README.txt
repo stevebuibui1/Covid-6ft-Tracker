@@ -9,9 +9,5 @@ for counting I counted people by the number of bounding boxes used in method one
 
 lastly,  my Testt.mov is my input file
 
-Other than that, I hope you have an amazing rest of the year and do great things in life!
-
-
-
 Ciao,
 Steven Bui
